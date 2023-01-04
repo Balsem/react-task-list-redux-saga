@@ -1,6 +1,6 @@
 # About The Project
 
-The application is a good fit to illustrate the basic concepts of redux-saga without being lost in excessive details.
+This application is a good fit to illustrate the basic concepts of redux-saga without being lost in excessive details.
 
 In this app you can add task, update task, mark task as done and delete task.
 
