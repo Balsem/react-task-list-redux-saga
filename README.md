@@ -24,11 +24,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 4/ Run server 
 
- Locate under server folder ###`$ cd server`
+ Locate under server folder `$ cd server`
 
- Install server dependencies ###`$ npm install`
+ Install server dependencies `$ npm install`
 
- Run server ###`$ npm start`
+ Run server  `$ npm start`
 
 
 
